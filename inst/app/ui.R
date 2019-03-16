@@ -1,1 +1,1 @@
-rpackagerecs:::app_ui()
+packagerecs:::app_ui()

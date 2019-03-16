@@ -20,7 +20,7 @@ usethis::use_test("app")
 # 3. Documentation
 
 ## 3. Vignette
-usethis::use_vignette("rpackagerecs")
+usethis::use_vignette("packagerecs")
 devtools::build_vignettes()
 
 ## 3. Code coverage

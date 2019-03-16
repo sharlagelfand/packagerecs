@@ -1,1 +1,1 @@
-rpackagerecs:::app_server
+packagerecs:::app_server
