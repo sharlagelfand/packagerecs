@@ -1,4 +1,4 @@
-Package: rpackagerecs
+Package: packagerecs
 Title: R Package Recommendations
 Version: 0.0.0.9000
 Authors@R: person('Sharla', 'Gelfand', email = 'sharla.gelfand@gmail.com', role = c('cre', 'aut'))

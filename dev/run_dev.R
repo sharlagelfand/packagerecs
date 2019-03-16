@@ -9,4 +9,4 @@ golem::detach_all_attached()
 golem::document_and_reload()
 
 # Run the application
-rpackagerecs::run_app()
+packagerecs::run_app()

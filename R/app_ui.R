@@ -43,7 +43,7 @@ app_ui <- function() {
 golem_add_external_resources <- function(){
   
   addResourcePath(
-    'www', system.file('app/www', package = 'rpackagerecs')
+    'www', system.file('app/www', package = 'packagerecs')
   )
  
   tagList(
