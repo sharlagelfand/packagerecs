@@ -27,13 +27,11 @@ app_ui <- function() {
         fluidRow(
           column(
             width = 6,
-            title = "Recommended packages",
             uiOutput("recommended_packages")
           ),
           
           column(
             width = 6,
-            title = "Not Recommended",
             uiOutput("not_recommended_packages")
           )
         )
