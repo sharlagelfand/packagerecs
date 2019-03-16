@@ -1,0 +1,23 @@
+Package: rpackagerecs
+Title: R Package Recommendations
+Version: 0.0.0.9000
+Authors@R: person('Sharla', 'Gelfand', email = 'sharla.gelfand@gmail.com', role = c('cre', 'aut'))
+Description: Navigate recommended R packages by tags.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    shiny,
+    DT,
+    attempt,
+    glue,
+    htmltools,
+    golem,
+    shinydashboard,
+    dplyr,
+    purrr
+Remotes: 
+    Thinkr-open/golem
+RoxygenNote: 6.1.1
+URL: https://github.com/sharlagelfand/packagerecs
+BugReports: https://github.com/sharlagelfand/packagerecs/issues
